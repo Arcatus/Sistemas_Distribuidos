@@ -1,0 +1,17 @@
+
+
+module interfaceCorba {
+
+exception DivisionPorCero {
+    float op1;
+    float op2;
+    };
+
+interface Calculator {
+    
+    float add (in float nb1, in float nb2);
+
+    float div (in float nb1, in float nb2) raises ( DivisionPorCero );
+
+    };
+};
