@@ -1,5 +1,5 @@
 # Proyecto Sistemas Distribuidos      
-     autores =                                                             
+     Autores:                                                             
          Urtiaga Torres Jenny Nazareth                                       
          Ramírez Martínez Carlos Alberto                                     
      Descripción                                                           
