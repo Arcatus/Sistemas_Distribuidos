@@ -1,0 +1,2 @@
+#INFORMACION IMPORTANTE 
+  El archivo corpus debe estar en la misma carpeta del jar para poder realizar las consultas de lo contrario no funcionara.
